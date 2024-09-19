@@ -1,6 +1,8 @@
-import { useState } from "react";
+/* eslint-disable no-unused-vars */
+import { useState, useEffect } from "react";
 import "./style/Caroussel.css"; // Make sure to include your CSS
-import telechargementImage from "../assets/GB-Console-isole.png";
+import telechargementImage from "../assets/HOME_NDSL-02.png";
+import telechargementImage1 from "../assets/HOME-SCREEN-Desktop-CLEAN-02.png";
 
 const slides = [
   {
@@ -13,7 +15,7 @@ const slides = [
     id: 2,
     description: "De nouveaux horizons",
     title: "NDS LITE",
-    image: "../assets/GBA/SIDE/GBA-Side-ClearBlack_Shell_GBA_0027-side-02.png",
+    image: telechargementImage1,
   },
 ];
 

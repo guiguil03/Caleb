@@ -8,10 +8,12 @@
   padding: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   padding: 40px;
-  background-color: transparent;
-  background: linear-gradient(to top, #8080d3, #d0e4e4);
+  background-color: white;
+  box-shadow: 10px 14px 18px rgba(0, 0, 0, 0.3);
+  border-radius: 10px; /* Optionnel : arrondi des coins */
+  border: 2px solid black;
 }
-.card content {
+.card-content {
   background-color: transparent;
 }
 .card-content h3 {

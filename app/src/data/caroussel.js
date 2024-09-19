@@ -9,7 +9,7 @@ const CarousselData = [
     id: 2,
     description: "De nouveaux horizons",
     nom: "NDS LITE",
-    image: "../assets/GBA/SIDE/GBA-Side-ClearBlack_Shell_GBA_0027-side-02.png",
+    image: "../assets/GBA/SIDE/GBA-Side-Blue_Shell_GBA_0027-side-02.png",
   },
 ];
 
